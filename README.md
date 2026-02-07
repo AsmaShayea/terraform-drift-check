@@ -139,7 +139,7 @@ alerts:
 ## Installation
 
 ```bash
-git clone https://github.com/devtools/terraform-drift-check.git
+git clone https://github.com/AsmaShayea/terraform-drift-check.git
 cd terraform-drift-check
 pip install -r requirements.txt
 ```
